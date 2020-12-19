@@ -1,0 +1,368 @@
+180030001 Albolote
+180030001 Albolote
+180040001 Albondón
+180040001 Albondón
+180060001 Albuñol
+180060001 Albuñol
+180070001 Albuñuelas
+180070001 Albuñuelas
+189070001 Alcudia de Guadix
+189070001 Alcudia de Guadix
+180110001 Alfacar
+180110001 Alfacar
+180120001 Algarinejo
+180120001 Algarinejo
+180130001 Alhama de Granada
+180130001 Alhama de Granada
+180140001 Alhendín
+180140001 Alhendín
+180150001 Alicún de Ortega
+180150001 Alicún de Ortega
+180460001 Almontaras
+180460001 Almontaras
+180170001 Almuñécar
+180170001 Almuñécar
+181020002 Alomartes
+181020002 Alomartes
+180180001 Alquife
+180180001 Alquife
+189110001 Ambroz
+189110001 Ambroz
+180200001 Arenas del Rey
+180200001 Arenas del Rey
+180210001 Armilla
+180210001 Armilla
+180220001 Atarfe
+180220001 Atarfe
+181340001 Barrio de la Vega
+181340001 Barrio de la Vega
+180230003 Baza
+180230003 Baza
+180240001 Beas de Granada
+180240001 Beas de Granada
+180250001 Beas de Guadix
+180250001 Beas de Guadix
+189110002 Belicena
+189110002 Belicena
+180270001 Benalúa
+180270001 Benalúa
+180280001 Benalúa de las Villas
+180280001 Benalúa de las Villas
+180290001 Benamaurel
+180290001 Benamaurel
+180300002 Bérchules
+180300002 Bérchules
+180350001 Cádiar
+180350001 Cádiar
+180360001 Cájar
+180360001 Cájar
+181400001 Calahonda
+181400001 Calahonda
+180370001 Calicasas
+180370001 Calicasas
+180530001 Campocámara
+180530001 Campocámara
+180380001 Campotéjar
+180380001 Campotéjar
+180390003 Caniles
+180390003 Caniles
+180420001 Capileira
+180420001 Capileira
+181400007 Carchuna
+181400007 Carchuna
+180930002 Castell de Ferro
+180930002 Castell de Ferro
+180450002 Castilléjar
+180450002 Castilléjar
+180460002 Castril
+180460002 Castril
+180470002 Cenes de la Vega
+180470002 Cenes de la Vega
+180590001 Chauchina
+180590001 Chauchina
+180610002 Chimeneas
+180610002 Chimeneas
+180620001 Churriana de la Vega
+180620001 Churriana de la Vega
+180480001 Cijuela
+180480001 Cijuela
+180490001 Cogollos de Guadix
+180490001 Cogollos de Guadix
+180500001 Cogollos Vega
+180500001 Cogollos Vega
+180510001 Colomera
+180510001 Colomera
+180530002 Cortes de Baza
+180530002 Cortes de Baza
+189080002 Cozvíjar
+189080002 Cozvíjar
+189120001 Cuevas del Campo
+189120001 Cuevas del Campo
+180560001 Cúllar
+180560001 Cúllar
+180570001 Cúllar Vega
+180570001 Cúllar Vega
+180630001 Darro
+180630001 Darro
+180640002 Dehesas de Guadix
+180640002 Dehesas de Guadix
+180650001 Dehesas Viejas
+180650001 Dehesas Viejas
+180660001 Deifontes
+180660001 Deifontes
+180670001 Diezma
+180670001 Diezma
+180680001 Dílar
+180680001 Dílar
+189150002 Domingo Pérez de Granada
+189150002 Domingo Pérez de Granada
+180710002 Dúrcal
+180710002 Dúrcal
+180030004 El Chaparral
+180030004 El Chaparral
+181750001 El Jau
+181750001 El Jau
+180560002 El Margen
+180560002 El Margen
+180060005 El Pozuelo
+180060005 El Pozuelo
+181400006 El Varadero
+181400006 El Varadero
+181020004 Escoznar
+181020004 Escoznar
+180720001 Escúzar
+180720001 Escúzar
+180460004 Fátima
+180460004 Fátima
+180740001 Ferreira
+180740001 Ferreira
+180760001 Fonelas
+180760001 Fonelas
+180770001 Fornes
+180770001 Fornes
+180780001 Freila
+180780001 Freila
+180790002 Fuente Vaqueros
+180790002 Fuente Vaqueros
+180120003 Fuentes de Cesna
+180120003 Fuentes de Cesna
+189050002 Gabia Grande
+189050002 Gabia Grande
+180820004 Galera
+180820004 Galera
+180840001 Gójar
+180840001 Gójar
+180850004 Gor
+180850004 Gor
+180540003 Graena
+180540003 Graena
+180870004 Granada
+180870004 Granada
+180880001 Guadahortuna
+180880001 Guadahortuna
+180890005 Guadix
+180890005 Guadix
+189060002 Guajar Faragüit
+189060002 Guajar Faragüit
+180930003 Gualchos
+180930003 Gualchos
+180940002 Güéjar Sierra
+180940002 Güéjar Sierra
+180950001 Güevéjar
+180950001 Güevéjar
+189050003 Híjar
+189050003 Híjar
+180960001 Huélago
+180960001 Huélago
+180970003 Huéneja
+180970003 Huéneja
+180980002 Huéscar
+180980002 Huéscar
+180990001 Huétor de Santillán
+180990001 Huétor de Santillán
+181000004 Huétor Tájar
+181000004 Huétor Tájar
+181010001 Huétor Vega
+181010001 Huétor Vega
+181020007 Íllora
+181020007 Íllora
+181030001 Ítrabo
+181030001 Ítrabo
+181050007 Iznalloz
+181050007 Iznalloz
+181070001 Jayena
+181070001 Jayena
+181080001 Jerez del Marquesado
+181080001 Jerez del Marquesado
+181090001 Jete
+181090001 Jete
+181110001 Jun
+181110001 Jun
+181140002 La Calahorra
+181140002 La Calahorra
+181730001 La Caleta-Guardia
+181730001 La Caleta-Guardia
+180170004 La Herradura
+180170004 La Herradura
+181260001 La Malahá
+181260001 La Malahá
+181620006 La Mamola
+181620006 La Mamola
+181220002 La Palma
+181220002 La Palma
+181540003 La Peza
+181540003 La Peza
+180060006 La Rábita
+180060006 La Rábita
+181930003 La Zubia
+181930003 La Zubia
+181150001 Láchar
+181150001 Láchar
+180870005 Lancha del Genil
+180870005 Lancha del Genil
+181160001 Lanjarón
+181160001 Lanjarón
+181170001 Lanteira
+181170001 Lanteira
+189030002 Laroles
+189030002 Laroles
+181730002 Lobres
+181730002 Lobres
+181220005 Loja
+181220005 Loja
+181470013 Los Tablones
+181470013 Los Tablones
+181240004 Lújar
+181240004 Lújar
+181270001 Maracena
+181270001 Maracena
+189040002 Mecina Bombarón
+189040002 Mecina Bombarón
+181320002 Moclín
+181320002 Moclín
+181330001 Molvízar
+181330001 Molvízar
+181340002 Monachil
+181340002 Monachil
+181350011 Montefrío
+181350011 Montefrío
+181360003 Montejícar
+181360003 Montejícar
+181370001 Montillana
+181370001 Montillana
+181380002 Moraleda de Zafayona
+181380002 Moraleda de Zafayona
+189090003 Moreda
+189090003 Moreda
+181400003 Motril
+181400003 Motril
+181410009 Murtas
+181410009 Murtas
+181430001 Nigüelas
+181430001 Nigüelas
+181440001 Nívar
+181440001 Nívar
+181450001 Ogíjares
+181450001 Ogíjares
+181320003 Olivares
+181320003 Olivares
+181460002 Orce
+181460002 Orce
+181470010 Órgiva
+181470010 Órgiva
+181480001 Otívar
+181480001 Otívar
+181490001 Otura
+181490001 Otura
+181500003 Padul
+181500003 Padul
+181510001 Pampaneira
+181510001 Pampaneira
+181520003 Pedro Martínez
+181520003 Pedro Martínez
+181530001 Peligros
+181530001 Peligros
+181150002 Peñuelas
+181150002 Peñuelas
+189100003 Pinos del Valle
+189100003 Pinos del Valle
+181570001 Pinos Genil
+181570001 Pinos Genil
+181580007 Pinos Puente
+181580007 Pinos Puente
+181590002 Píñar
+181590002 Píñar
+189010003 Pitres
+189010003 Pitres
+181630001 Pórtugos
+181630001 Pórtugos
+181640007 Puebla de Don Fadrique
+181640007 Puebla de Don Fadrique
+181320004 Puerto Lope
+181320004 Puerto Lope
+181650001 Pulianas
+181650001 Pulianas
+189110004 Purchil
+189110004 Purchil
+181670002 Purullena
+181670002 Purullena
+181680001 Quéntar
+181680001 Quéntar
+189020002 Restabal
+189020002 Restabal
+181220008 Riofrío
+181220008 Riofrío
+181710006 Salar
+181710006 Salar
+181730003 Salobreña
+181730003 Salobreña
+181740001 Santa Cruz del Comercio
+181740001 Santa Cruz del Comercio
+181750003 Santa Fe
+181750003 Santa Fe
+181340003 Sierra Nevada
+181340003 Sierra Nevada
+181770003 Sorvilán
+181770003 Sorvilán
+181190004 Talará
+181190004 Talará
+181320005 Tiena
+181320005 Tiena
+181020008 Tocón
+181020008 Tocón
+181780001 Torre-Cardela
+181780001 Torre-Cardela
+189160001 Torrenueva
+189160001 Torrenueva
+181790001 Torvizcón
+181790001 Torvizcón
+181800001 Trevélez
+181800001 Trevélez
+181820006 Ugíjar
+181820006 Ugíjar
+189140001 Valderrubio
+189140001 Valderrubio
+181830003 Válor
+181830003 Válor
+181840003 Vélez de Benaudalla
+181840003 Vélez de Benaudalla
+181000006 Venta Nueva
+181000006 Venta Nueva
+181850002 Ventas de Huelma
+181850002 Ventas de Huelma
+180130010 Ventas de Zafarraya
+180130010 Ventas de Zafarraya
+181220012 Ventorros de San José
+181220012 Ventorros de San José
+181880001 Villanueva Mesía
+181880001 Villanueva Mesía
+181890001 Víznar
+181890001 Víznar
+181920004 Zafarraya
+181920004 Zafarraya
+189130001 Zagra
+189130001 Zagra
+181580012 Zujaira
+181580012 Zujaira
+181940005 Zújar
+181940005 Zújar
